@@ -12,16 +12,20 @@ In this program we use PyQt5 library and from pytube library import YouTube.We w
 
 
 
+![Untitled](https://user-images.githubusercontent.com/117192886/199949090-9394d62e-1d84-494e-9154-8d13f1bbf770.png)
+
+
+
 # How To Run Project
 
 At First, you need to install each library that exist in requirments.txt file. install using following below command:
 
-                $cpip install -r requirments.txt
+                $ pip install -r requirments.txt
                 
                 
 In the following, Run youtidl2.py:
 
-                $cpython youtidl2.py
+                $ python youtidl2.py
                 
                 
             
